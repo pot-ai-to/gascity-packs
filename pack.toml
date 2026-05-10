@@ -1,0 +1,5 @@
+[pack]
+name = "patrol-toolchain"
+schema = 2
+version = "0.1.0"
+description = "Operator-side deadman switch for gastown patrol agents (deacon, witness, boot). Suspends them by default, wakes them on silence/staleness signals via systemd-user timers."
