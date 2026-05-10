@@ -47,14 +47,4 @@ Everything in this repo is **operator-side tooling I wrote for my own
 gascity deployment.** It works for me, but each pack ships with a
 "Concerns" section in its README — failure modes I've identified but
 haven't fully de-risked. Read those before copying a pack into your
-setup. Issues and PRs welcome.
-
-## Contributing
-
-If you fix a bug or harden a concern, send a PR. When a pack's surface
-changes, update its README in the same PR so the docs stay current with
-the code.
-
-## License
-
-[MIT](LICENSE).
+setup.
